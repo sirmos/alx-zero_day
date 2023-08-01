@@ -1,1 +1,1 @@
-My first readme
+Programming requires patience
